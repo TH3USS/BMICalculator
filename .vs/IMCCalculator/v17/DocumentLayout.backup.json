@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\imccalculator\\imccalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|solutionrelative:imccalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\imccalculator\\imccalculator\\views\\imc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|solutionrelative:imccalculator\\views\\imc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\imccalculator\\imccalculator\\controllers\\imccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|solutionrelative:imccalculator\\controllers\\imccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\imccalculator\\imccalculator\\models\\imcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|solutionrelative:imccalculator\\models\\imcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "IMCCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Program.cs*",
+              "RelativeToolTip": "IMCCalculator\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:23:42.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Views\\IMC\\Index.cshtml",
+              "RelativeDocumentMoniker": "IMCCalculator\\Views\\IMC\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Views\\IMC\\Index.cshtml*",
+              "RelativeToolTip": "IMCCalculator\\Views\\IMC\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T03:23:30.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMCController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Controllers\\IMCController.cs",
+              "RelativeDocumentMoniker": "IMCCalculator\\Controllers\\IMCController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Controllers\\IMCController.cs*",
+              "RelativeToolTip": "IMCCalculator\\Controllers\\IMCController.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:20:23.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMCModel.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Models\\IMCModel.cs",
+              "RelativeDocumentMoniker": "IMCCalculator\\Models\\IMCModel.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Models\\IMCModel.cs*",
+              "RelativeToolTip": "IMCCalculator\\Models\\IMCModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:19:45.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
