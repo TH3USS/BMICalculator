@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IMCCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e352df1b2b933ce54fad64649c3de7a8bb409d62")]
 [assembly: System.Reflection.AssemblyProductAttribute("IMCCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IMCCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

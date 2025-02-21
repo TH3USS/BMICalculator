@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\",
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\imccalculator\\imccalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\bmicalculator\\imccalculator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|solutionrelative:imccalculator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\bmicalculator\\imccalculator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|solutionrelative:imccalculator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\bmicalculator\\imccalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|solutionrelative:imccalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\bmicalculator\\imccalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|solutionrelative:imccalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\imccalculator\\imccalculator\\views\\imc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\bmicalculator\\imccalculator\\views\\imc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|solutionrelative:imccalculator\\views\\imc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\imccalculator\\imccalculator\\controllers\\imccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\bmicalculator\\imccalculator\\controllers\\imccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|solutionrelative:imccalculator\\controllers\\imccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\imccalculator\\imccalculator\\models\\imcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|c:\\users\\matheus\\documents\\projetos\\bmicalculator\\imccalculator\\models\\imcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ECDE286-AA2D-407D-A59D-B06B9F119F57}|IMCCalculator\\IMCCalculator.csproj|solutionrelative:imccalculator\\models\\imcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,54 +43,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Program.cs",
-              "RelativeDocumentMoniker": "IMCCalculator\\Program.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Program.cs",
-              "RelativeToolTip": "IMCCalculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T03:23:42.297Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IMCCalculator\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IMCCalculator\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T03:47:31.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Views\\IMC\\Index.cshtml",
-              "RelativeDocumentMoniker": "IMCCalculator\\Views\\IMC\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Views\\IMC\\Index.cshtml",
-              "RelativeToolTip": "IMCCalculator\\Views\\IMC\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T03:23:30.129Z",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "IMCCalculator\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "IMCCalculator\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T03:46:25.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IMCController.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Controllers\\IMCController.cs",
-              "RelativeDocumentMoniker": "IMCCalculator\\Controllers\\IMCController.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Controllers\\IMCController.cs",
-              "RelativeToolTip": "IMCCalculator\\Controllers\\IMCController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T03:20:23.048Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\appsettings.json",
+              "RelativeDocumentMoniker": "IMCCalculator\\appsettings.json",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\appsettings.json",
+              "RelativeToolTip": "IMCCalculator\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T04:19:03.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "IMCCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\Program.cs",
+              "RelativeToolTip": "IMCCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:23:42.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\Views\\IMC\\Index.cshtml",
+              "RelativeDocumentMoniker": "IMCCalculator\\Views\\IMC\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\Views\\IMC\\Index.cshtml",
+              "RelativeToolTip": "IMCCalculator\\Views\\IMC\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T03:23:30.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMCController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\Controllers\\IMCController.cs",
+              "RelativeDocumentMoniker": "IMCCalculator\\Controllers\\IMCController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\Controllers\\IMCController.cs",
+              "RelativeToolTip": "IMCCalculator\\Controllers\\IMCController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:20:23.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IMCModel.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Models\\IMCModel.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\Models\\IMCModel.cs",
               "RelativeDocumentMoniker": "IMCCalculator\\Models\\IMCModel.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\IMCCalculator\\IMCCalculator\\Models\\IMCModel.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\BMICalculator\\IMCCalculator\\Models\\IMCModel.cs",
               "RelativeToolTip": "IMCCalculator\\Models\\IMCModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T03:19:45.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T03:19:45.804Z"
             }
           ]
         },
