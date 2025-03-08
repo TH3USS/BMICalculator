@@ -38,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -63,8 +67,7 @@
               "RelativeToolTip": "IMCCalculator\\wwwroot\\css\\site.css",
               "ViewState": "AgIAADcAAAAAAAAAAAAkwF0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-21T03:46:25.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T03:46:25.653Z"
             },
             {
               "$type": "Document",
@@ -76,8 +79,7 @@
               "RelativeToolTip": "IMCCalculator\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-21T04:19:03.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T04:19:03.132Z"
             },
             {
               "$type": "Document",
